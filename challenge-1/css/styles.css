@@ -38,7 +38,8 @@ p {
   height: 100vw;
   max-width: 430px;
   /*justify-content: center;*/
-  /*border: 2px solid red;*/
+  border: 2px solid red;
+  margin: auto;
 }
 
 .name {
@@ -81,14 +82,10 @@ p {
   .hero {
     width: 30%;
     max-height: 645px;
-
+    margin: 0px;
   }
 
-
-
   .box-container {
-    /*justify-content: center;*/
-    /*align-items: center;*/
     max-width: 645px;
     max-height: 645px;
   }
@@ -107,7 +104,7 @@ p {
     max-width: 430px;
     max-height: 215px;
   }
-
+}
 
 
 /*#FFD700 x
