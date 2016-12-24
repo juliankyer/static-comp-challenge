@@ -1,3 +1,4 @@
+
 body,
 html {
   height: 100%;
@@ -82,6 +83,7 @@ article p {
   background-color: #4C4000;
 }
 
+
 #experience,
 #contact {
   background-color: #FFD700;
@@ -95,7 +97,6 @@ article p {
 #portfolio {
   background-color: #191500;
 }
-
 
 @media screen and (min-width: 740px) {
   .hero,
@@ -140,3 +141,5 @@ article p {
     flex-basis: 33.3333%;
   }
 }
+
+
